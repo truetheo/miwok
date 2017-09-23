@@ -1,2 +1,2 @@
 # miwok
-no audio
+Lanuage learning application. Multi Screen app.
